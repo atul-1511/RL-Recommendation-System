@@ -1,0 +1,10 @@
+pandas
+numpy
+inflect
+contractions
+Keras	
+more-itertools
+argparse
+collections-extended
+nltk
+
